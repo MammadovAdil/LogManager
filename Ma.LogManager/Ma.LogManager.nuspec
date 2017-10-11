@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Ma.LogManager</id>
+    <version>$version$</version>
+    <title>Ma.LogManager</title>
+    <authors>MammadovAdil</authors>
+    <owners>MammadovAdil</owners>
+    <licenseUrl>https://github.com/MammadovAdil/LogManager/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/MammadovAdil/LogManager</projectUrl>
+    <iconUrl>https://cdn3.iconfinder.com/data/icons/document-file-formats-2/512/9-128.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple convenient methods to create and write info to Windows and file logs.</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Log FileLog WindowsLog Logging</tags>
+  </metadata>
+</package>
